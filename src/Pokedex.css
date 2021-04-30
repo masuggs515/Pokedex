@@ -1,0 +1,9 @@
+#Pokedex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    justify-content: space-around;
+    align-items: space-around;
+    margin: 0 5vw;
+}
+
